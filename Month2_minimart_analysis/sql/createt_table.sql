@@ -26,5 +26,5 @@ CREATE TABLE Orders (
 
 -- alter the Customers table to add a phone_number column
 ALTER TABLE Customers
-ADD COLUMN phone_number VARCHAR(20);
+ADD COLUMN phone_number VARCHAR(15);
 
